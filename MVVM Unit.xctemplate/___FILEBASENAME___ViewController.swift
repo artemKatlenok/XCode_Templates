@@ -25,10 +25,17 @@ final class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		setupUserInterface()
 		// TODO: Implement Controller
 	}
 }
 
 extension ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName:identifier___ViewProtocol {
 	
+}
+
+private extension ___FILEBASENAMEASIDENTIFIER___ {
+	func setupUserInterface() {
+
+	}
 }
